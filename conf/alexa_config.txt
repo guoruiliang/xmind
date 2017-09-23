@@ -1,0 +1,7 @@
+CLIENT_ID="amzn1.application-oa2-client.7e5bbd2af0994918a218bc7533605ab9"
+CLIENT_SECRET="8f7ebf89eaa7686bb2cba6a57f5459983aa6015427cc52432afa7978eb68d5be"
+REDIRECT_URI="http://175.45.31.185/code/webservice/requestLwaAuthAccessToken"
+
+DEVICE_TYPE_ID="pc_alexa"
+
+

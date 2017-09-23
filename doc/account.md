@@ -4,7 +4,11 @@
 
 | Name | Password | Desc |
 | ---  | -------- | ---- |
-| kyle.yu@wesoft.com | 123456789 | 
+| kyle.yu@wesoft.com | 123456789 | wysely|
+| william.guo@wesoft.com | Password#3 | wysely|
+| kyletesteh@gmail.com | 123456aa  432639| wysely  | 
+| salus01.guo@126.com | 123456789=>31955 | wysely|
+
 | jliu.computime@gmail.com | gsl28328628 | AWS |
 | 1846306921@qq.com  | shy1992 | AWS |
 | 1846306921@qq.com  | shy19920921 | AWS |
