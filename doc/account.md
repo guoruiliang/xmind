@@ -33,5 +33,6 @@
 | http://10.140.34.5//code/  | 内网 |  WESOFT_BASE_URL |
 | https://user.aylanetworks.com/ | base |  BASE_URL |
 | https://dev.salusconnect.io/ | salus |  SALUS_BASE_URL |
+| https://my.wyse.ly/ | salus |  SALUS_BASE_URL Production |
 | https://" + APP_ID + "-device.aylanetworks.com/apiv1 | device |  DEVICE_BASE_URL |
 

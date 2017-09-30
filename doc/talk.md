@@ -11,7 +11,25 @@
 手动更新OTA
 1. C:\Users\kyle.yu>adb push C:\Users\kyle.yu\Desktop\ota.zip /cache/recovery/
 2. C:\Users\kyle.yu>adb shell sync
-3. C:\Users\kyle.yu>adb shell "echo \"--update_package=/cache/recovery/ota.zip\" > /cache/recovery/command"
+3. C:\Users\kyle.yu>adb shell "echo \"--update_package=/cache/recovery/ota.zip\"  /cache/recovery/command"
 4. C:\Users\kyle.yu>adb reboot recovery
 ```
 
+
+
+## ayla.conf
+
+this is for production sever with new model name
+but we still need the server side chnage
+OK, you may try for gateway binding
+push it to /cache/conf/ayla.conf
+remember to save your old config file
+then do a factory reset
+in order to use new config file
+
+/data/gateway/access_token
+mv /data/gateway/access_token_tmp
+
+## gateway not bind
+
+data/gatway 删除data3 data4
